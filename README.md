@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Reemplazá esta línea con tu banner de Canva/Figma (900x300px) -->
-<!-- ![banner](https://www.stweb.tv/Banner.png) -->
+[banner](https://www.stweb.tv/Banner.png) -->
 
 # Pablo Granate
 ### Full Stack Developer · BasquetPass 🏀
